@@ -8,19 +8,18 @@ sidebar:
 
     # Profile information
     name: Mudit Kumar
-    tagline: Full Stack Developer
+    tagline: DevOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ministryofdevops@gmail.com
-    phone: 012 345 6789
     website: ministryofdevops.com
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    linkedin: muditcse
+  #  xing: alandoe
+    github: mudit000
+  #  telegram: # add your nickname without '@' sign
+  #  gitlab:
+  #  bitbucket:
     twitter: '@MinofDevOps'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -170,16 +169,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Linux
+        level: 90%
+
+      - name: CI CD
+        level: 80%
+
+      - name: Bash
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: IaaC
         level: 95%
 
       - name: Ruby on Rails
